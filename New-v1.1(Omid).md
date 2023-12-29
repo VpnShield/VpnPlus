@@ -1,10 +1,10 @@
 {
-"Title": "☆  بروزرسانی جدید  ☆",
-"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت دوشنبه 27 آذر تا ساعت 9 شب داخل کانال قرار میگیره ، فورا عضو شو",
-"Link": "tg://resolve?domain=Farsroid_Club",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=U-iAhFfN3u03ZTU0",
+"ColorWave": "#18FFFF",
+"Color": "#7C4DFF",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "1",
-"ShowTime": "999",
-"Button": "  عضویت اجباری  ",
-"ButtonCancell": " بعدا ",
-"Closure": "false",
+"Cancellable": "true",
+"MessageID": "0020276527",
+"ShowTime": "3",
+"Button": " دانلود فیلترشکن بدون قطعی ",
+"ButtonCancell": " نمیخوام ",
+"Closure": "true",
 "Show": "on"
 }
